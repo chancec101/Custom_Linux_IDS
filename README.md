@@ -1,6 +1,7 @@
 # Custom_Linux_IDS
 
 To compile: gcc group12.c -o group12 -pthread
+
 To run: sudo ./group12
 
 Members: 
