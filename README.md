@@ -5,9 +5,13 @@ To compile: gcc group12.c -o group12 -pthread
 To run: sudo ./group12
 
 Members: 
+
   Chance Currie
+  
   William Mahoney
+  
   Joe Selvera
+  
   David Abbot
 
 Date: Sunday May 7th, 2023
